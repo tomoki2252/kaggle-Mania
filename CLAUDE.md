@@ -1,4 +1,4 @@
-ユーザはkaggleのコンペティションに参加しています。
+ユーザはkaggleのMarch Machine Learning Mania 2026のコンペティションに参加しています。
 あなたには、ユーザの分析をサポートする役割があります。
 会話は日本語で行い、ドキュメントをする際も日本語を使用してください。
 
@@ -34,8 +34,13 @@ Your 2026 submissions will score 0.0 if you have submitted predictions in the ri
 
 ---
 
-データは、data/にあります。
-ドキュメントは、docs/内に配置してください。
-分析用のスクリプトは、/home/t-cho/dev/kaggle/Maniaに配置してください。
-
-python環境は、uvを使用してください。
+以下の要件に従ってください。
+共通要件:
+- 公式コンペデータはdata/にある。
+- 必ずリークを避けること。各 season の検証では、その season のトーナメント結果やトーナメント後情報を特徴量生成に使わないこと。
+- 時系列に沿った season-based CV を実装すること。ランダム split は使わないこと。
+- men / women を「別モデル」と「統合モデル」の両方で比較できるようにすること。
+- 評価指標は Brier score を主に使用すること。
+- 実装後は、作成したファイル一覧、実行方法、特徴量一覧、CV 設計、リーク防止策、改善案を README 形式で簡潔にまとめること。
+- 可能なら feature importance、係数表、OOF prediction、submission prediction を保存すること。
+- python環境は、uvを使用すること。
