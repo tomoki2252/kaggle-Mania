@@ -38,4 +38,4 @@ Your 2026 submissions will score 0.0 if you have submitted predictions in the ri
 ドキュメントは、docs/内に配置してください。
 分析用のスクリプトは、/home/t-cho/dev/kaggle/Maniaに配置してください。
 
-pythonは、uvで管理してください。
+python環境は、uvを使用してください。
