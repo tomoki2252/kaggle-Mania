@@ -1,0 +1,7 @@
+brier_single: 0.17049345108518138
+brier_ensemble: 0.1706838193042683
+logloss_single: 0.5066396517574503
+logloss_ensemble: 0.5072000313017856
+accuracy_single: 0.7428571428571429
+accuracy_ensemble: 0.7488721804511278
+best_iteration: 375
