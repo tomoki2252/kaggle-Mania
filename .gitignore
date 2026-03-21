@@ -9,4 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# Data
 data/
+
+# Experiment outputs (再生成可能)
+outputs/
