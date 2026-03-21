@@ -1,0 +1,26 @@
+Average MAE (LOSO): 9.201740
+Average Brier Score (LOSO): 0.167215
+Number of features: 34
+Number of LOSO seasons: 22
+  Season 2003 - Brier: 0.189270
+  Season 2004 - Brier: 0.175974
+  Season 2005 - Brier: 0.164005
+  Season 2006 - Brier: 0.194264
+  Season 2007 - Brier: 0.145373
+  Season 2008 - Brier: 0.147683
+  Season 2009 - Brier: 0.166667
+  Season 2010 - Brier: 0.168653
+  Season 2011 - Brier: 0.186671
+  Season 2012 - Brier: 0.156898
+  Season 2013 - Brier: 0.166471
+  Season 2014 - Brier: 0.174818
+  Season 2015 - Brier: 0.145629
+  Season 2016 - Brier: 0.173614
+  Season 2017 - Brier: 0.159041
+  Season 2018 - Brier: 0.181455
+  Season 2019 - Brier: 0.141956
+  Season 2021 - Brier: 0.181368
+  Season 2022 - Brier: 0.188937
+  Season 2023 - Brier: 0.189226
+  Season 2024 - Brier: 0.160256
+  Season 2025 - Brier: 0.120501
